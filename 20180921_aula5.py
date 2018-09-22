@@ -2,7 +2,6 @@
 
 #Operadores condição
 
-#pagina 19
 #= = Igual
 #! = Diferente
 #> Maior
